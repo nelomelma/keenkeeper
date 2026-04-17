@@ -39,9 +39,6 @@ npm install
 npm run dev
 
 
-## ⚙️ Why React and Vite?
-
-This project uses React as the main frontend framework because it allows building reusable components and managing the user interface efficiently. It helps keep the code organized and makes the application easier to maintain and scale.
 
 
 

@@ -43,7 +43,6 @@ npm run dev
 
 This project uses React as the main frontend framework because it allows building reusable components and managing the user interface efficiently. It helps keep the code organized and makes the application easier to maintain and scale.
 
-Vite is used as the build tool because it provides a fast development experience. It starts the development server quickly and updates changes instantly using hot module replacement. This makes development smoother and saves time compared to traditional tools.
 
 
 

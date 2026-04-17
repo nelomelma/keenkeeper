@@ -1,0 +1,50 @@
+[
+  {
+    "id": 101,
+    "type": "text",
+    "title": "Text with Sarah Chen",
+    "date": "2026-03-28T10:00:00.000Z",
+    "friendId": 0,
+    "friendName": "Sarah Chen"
+  },
+  {
+    "id": 102,
+    "type": "video",
+    "title": "Video with Aisha Patel",
+    "date": "2026-03-23T10:00:00.000Z",
+    "friendId": 7,
+    "friendName": "Aisha Patel"
+  },
+  {
+    "id": 103,
+    "type": "call",
+    "title": "Call with Marcus Johnson",
+    "date": "2026-03-19T10:00:00.000Z",
+    "friendId": 8,
+    "friendName": "Marcus Johnson"
+  },
+  {
+    "id": 104,
+    "type": "text",
+    "title": "Text with Olivia Martinez",
+    "date": "2026-03-13T10:00:00.000Z",
+    "friendId": 5,
+    "friendName": "Olivia Martinez"
+  },
+  {
+    "id": 105,
+    "type": "call",
+    "title": "Call with Lisa Nakamura",
+    "date": "2026-03-11T10:00:00.000Z",
+    "friendId": 3,
+    "friendName": "Lisa Nakamura"
+  },
+  {
+    "id": 106,
+    "type": "video",
+    "title": "Video with Ryan O'Brien",
+    "date": "2026-02-24T10:00:00.000Z",
+    "friendId": 0,
+    "friendName": "Ryan O'Brien"
+  }
+]
